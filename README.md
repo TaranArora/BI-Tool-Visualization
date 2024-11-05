@@ -9,7 +9,9 @@ In recent years, algorithmic trading has become a dominant approach in financial
 
 ## Deliverables:
 **Data Warehouse Design:** A schema and a fully implemented DW with stock market data.
+
 **BI Tool Setup:** Dashboards and visualizations using Metabase to show market trends and indicators.
+
 **Final Report:** A research paper using the IEEE Conference Template, detailing the project’s methodology, results, and conclusions.
 
 ## Conclusion:
